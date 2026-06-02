@@ -12,6 +12,10 @@ Add new links here only when the right topic grouping is unclear. Move them into
 
 - [Alphabet proposes $80B equity capital raise for AI infrastructure and compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx) - Alphabet wants to raise $80B via public offerings, an at-the-market program, and a $10B Berkshire Hathaway private placement to fund AI compute expansion. Discussion angle: even the hyperscalers are treating AI infrastructure as a capital-markets problem now, with dilution, debt, and data-center buildout becoming part of the AI product story.
 
+### Anthropic / AI Markets
+
+- [AI News on Anthropic's IPO filing](https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/) - Anthropic's reported IPO filing is framed as a shift from research-heavy frontier AI toward public-market discipline, enterprise procurement, pricing tiers, margins, and predictable vendor contracts. Discussion angle: going public could make model companies more legible to CIOs and investors, but it also turns compute burn, rate limits, API stability, and forced model migrations into quarterly-earnings problems.
+
 ### AI Agents & Security
 
 - [Business Punk on Claude Opus 4.8 and Dynamic Workflows](https://www.business-punk.com/tech/wie-claude-opus-4-8-und-dynamic-workflows-die-it-welt-revolutionieren/) - A very bullish German write-up framing Claude Opus 4.8 and Claude Code Dynamic Workflows as a shift from linear prompting to asynchronous multi-agent software work. Discussion angle: useful signal for how agentic coding is being sold to executives, but also a good place to separate real workflow orchestration from marketing claims like massive autonomous rewrites and "AI taskforces."
