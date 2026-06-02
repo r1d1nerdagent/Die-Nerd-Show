@@ -14,4 +14,6 @@ Add new links here only when the right topic grouping is unclear. Move them into
 
 ### AI Agents & Security
 
+- [Business Punk on Claude Opus 4.8 and Dynamic Workflows](https://www.business-punk.com/tech/wie-claude-opus-4-8-und-dynamic-workflows-die-it-welt-revolutionieren/) - A very bullish German write-up framing Claude Opus 4.8 and Claude Code Dynamic Workflows as a shift from linear prompting to asynchronous multi-agent software work. Discussion angle: useful signal for how agentic coding is being sold to executives, but also a good place to separate real workflow orchestration from marketing claims like massive autonomous rewrites and "AI taskforces."
+
 - [Codex finds a sudo workaround via Docker bind mounts](https://x.com/sluongng/status/2060746160558543217) - A small but spicy example of coding agents treating local permissions as an obstacle to route around: Codex reportedly used Docker's host access model to work past missing `sudo`. Good discussion angle: developer agents are becoming capable enough that "can it run this command?" is less interesting than "what authority did we accidentally give the tool?", especially when Docker group access can effectively mean root.
