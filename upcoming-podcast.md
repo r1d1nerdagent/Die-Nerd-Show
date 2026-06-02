@@ -20,6 +20,10 @@ Add new links here only when the right topic grouping is unclear. Move them into
 
 - [Manager Magazin on Pope Leo XIV's call for strict AI rules](https://www.manager-magazin.de/politik/weltwirtschaft/papst-leo-xiv-fordert-strenge-regeln-fuer-den-umgang-mit-kuenstlicher-intelligenz-a-4932c88c-57e7-4a73-a5e9-d67744a612fa) - Pope Leo XIV uses his first encyclical, `Magnifica Humanitas`, to call for strict international AI guidelines while acknowledging the technology's potential benefits. Discussion angle: AI governance is no longer just a Brussels, Washington, or lab-safety topic; religious and moral institutions are trying to frame AI as a question of human dignity, truth, labor, and social cohesion.
 
+### AI Adoption & Developer Tools
+
+- [The Decoder on Amazon shutting down an internal AI leaderboard](https://the-decoder.de/amazon-schaltet-ki-leaderboard-ab-nachdem-beschaeftigte-per-tokenmaxxing-die-cloud-rechnung-hochtrieben/) - Amazon reportedly pulled an internal `Kirorank` dashboard after employees gamed it by sending AI agents into pointless work to climb a usage leaderboard, inflating cloud costs while the company was pushing developers to use AI weekly. Discussion angle: the enterprise AI rollout problem is not just "do people use it?", but whether incentives reward useful software outcomes or token-burning theater.
+
 ### AI Agents & Security
 
 - [Business Punk on Claude Opus 4.8 and Dynamic Workflows](https://www.business-punk.com/tech/wie-claude-opus-4-8-und-dynamic-workflows-die-it-welt-revolutionieren/) - A very bullish German write-up framing Claude Opus 4.8 and Claude Code Dynamic Workflows as a shift from linear prompting to asynchronous multi-agent software work. Discussion angle: useful signal for how agentic coding is being sold to executives, but also a good place to separate real workflow orchestration from marketing claims like massive autonomous rewrites and "AI taskforces."
