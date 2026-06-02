@@ -14,7 +14,7 @@ Add new links here only when the right topic grouping is unclear. Move them into
 
 ### Anthropic / AI Markets
 
-- [AI News on Anthropic's IPO filing](https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/) - Anthropic's reported IPO filing is framed as a shift from research-heavy frontier AI toward public-market discipline, enterprise procurement, pricing tiers, margins, and predictable vendor contracts. Discussion angle: going public could make model companies more legible to CIOs and investors, but it also turns compute burn, rate limits, API stability, and forced model migrations into quarterly-earnings problems.
+- [Heise / AI News on Anthropic's IPO filing](https://www.heise.de/news/Anthropic-reicht-vertraulich-Antrag-auf-Boersengang-in-den-USA-ein-11314424.html) ([AI News angle](https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/)) - Anthropic has confidentially filed a draft S-1 with the SEC, keeping share count, pricing, and financials private while regulators review the planned IPO; reporting frames this as a near-trillion-dollar AI company moving from research-heavy private funding toward public-market discipline. Discussion angle: going public could make model companies more legible to CIOs and investors, but it also turns compute burn, margins, API stability, rate limits, safety posture, and forced model migrations into quarterly-earnings problems.
 
 ### AI Governance & Society
 
