@@ -35,6 +35,9 @@ Add new links here only when the right topic grouping is unclear. Move them into
 
 ### AI Adoption & Developer Tools
 
+- [Google introduces Gemma 4 12B](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/) - **Shared by:** Sebastian. Google DeepMind's new Gemma 4 12B is a mid-sized, Apache-2.0 multimodal model for local agentic workloads: encoder-free vision and audio inputs, reasoning near the larger 26B MoE model, Multi-Token Prediction drafters for lower latency, and support through LM Studio, Ollama, Hugging Face, llama.cpp, MLX, SGLang, vLLM, Google AI Edge, Cloud Run, GKE, and Model Garden.
+  **Discussion angle:** this is the small-local-model story getting serious: multimodal agents that fit on a laptop with 16 GB memory change the tradeoff between cloud APIs, privacy, latency, cost, and offline experimentation.
+
 - [Heise on Semantic Anchors for agentic coding](https://www.heise.de/news/Semantische-Anker-verkuerzen-den-Kontext-fuer-das-agentische-Coden-11311061.html) - **Shared by:** Carlo M. The `Semantic Anchors` catalog collects compact references like Clean Architecture, Gherkin, Code Smells, or Wolf Schneider style rules so developers can invoke well-known concepts without burning context on full explanations.
   **Discussion angle:** this is the pragmatic side of context engineering - not a new model or framework, but shared vocabulary and project instructions that make coding agents cheaper, more consistent, and less dependent on giant prompts.
 
