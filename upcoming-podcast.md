@@ -36,6 +36,11 @@ Add new links here only when the right topic grouping is unclear. Move them into
 - [Notebookcheck on Rogbid's low-cost SR15 Ultra smart ring](https://www.notebookcheck.com/Neuer-preisguenstiger-Smartring-aus-Titan-mit-Haptik-Display-und-30-Tage-Akkulaufzeit.1314314.0.html) - **Shared by:** Carlo M. Rogbid's SR15 Ultra pushes the smart-ring category toward mini-smartwatch territory: titanium body, tiny display, vibration alerts, gesture controls, 24/7 health tracking, 5 ATM water resistance, and a claimed 30-day runtime with charging case for $99.99.
   **Discussion angle:** cheap smart rings are getting more feature-heavy just as Oura and Samsung keep the category minimalist; the interesting question is whether users want ambient health jewelry or another notification device with aggressive manufacturer claims.
 
+### Crypto / Regulation
+
+- [BTC-ECHO sponsored post on the EU MiCA deadline for crypto exchanges](https://www.btc-echo.de/news/deadline-1-juli-sind-deine-kryptos-bald-ploetzlich-weg-231542/) - **Shared by:** Carlo M. BTC-ECHO frames the July 1, 2026 MiCA deadline as a consumer-risk moment: crypto service providers without an EU license may have to stop serving European customers, which could mean account restrictions, forced position closures, or messy withdrawals. The article is explicitly a sponsored OKX post, so treat the product angle accordingly.
+  **Discussion angle:** useful short segment on regulation becoming real for normal crypto users: MiCA turns exchange choice from a fee/liquidity question into a counterparty and access-risk question, but sponsored exchange content also shows how compliance is now marketing ammunition.
+
 ### AI Governance & Society
 
 - [Manager Magazin on Pope Leo XIV's call for strict AI rules](https://www.manager-magazin.de/politik/weltwirtschaft/papst-leo-xiv-fordert-strenge-regeln-fuer-den-umgang-mit-kuenstlicher-intelligenz-a-4932c88c-57e7-4a73-a5e9-d67744a612fa) - **Shared by:** unknown. Pope Leo XIV uses his first encyclical, `Magnifica Humanitas`, to call for strict international AI guidelines while acknowledging the technology's potential benefits.

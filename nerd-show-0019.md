@@ -144,16 +144,20 @@ Keep each to 1-2 minutes unless someone has a genuinely good rant.
 - [Notebookcheck on Rogbid's low-cost SR15 Ultra smart ring](https://www.notebookcheck.com/Neuer-preisguenstiger-Smartring-aus-Titan-mit-Haptik-Display-und-30-Tage-Akkulaufzeit.1314314.0.html) - **Shared by:** Carlo M. Cheap smart ring with titanium body, display, vibration alerts, gesture controls, health tracking, 5 ATM water resistance, and claimed 30-day runtime with charging case.
   **TL;DR:** smart rings are drifting toward tiny smartwatches. Somebody please decide whether jewelry needs notifications.
 
+- [BTC-ECHO sponsored post on the EU MiCA deadline for crypto exchanges](https://www.btc-echo.de/news/deadline-1-juli-sind-deine-kryptos-bald-ploetzlich-weg-231542/) - **Shared by:** Carlo M. BTC-ECHO uses the July 1, 2026 MiCA deadline to warn that non-licensed crypto providers may have to stop serving EU customers, with possible account restrictions, forced position closures, or withdrawal friction. It is explicitly sponsored OKX content.
+  **TL;DR:** MiCA is becoming real for normal users, but compliance is also turning into exchange marketing. Good 1-minute aside, not a neutral consumer-protection explainer.
+
 ## If We Are Running Long
 
 Cut in this order:
 
 1. Smart ring.
-2. Vatican AI rules.
-3. Business Punk.
-4. CNBC executive order.
-5. Emergence society simulation.
-6. Detailed Anthropic IPO mechanics.
+2. BTC-ECHO/OKX MiCA aside.
+3. Vatican AI rules.
+4. Business Punk.
+5. CNBC executive order.
+6. Emergence society simulation.
+7. Detailed Anthropic IPO mechanics.
 
 Do not cut entirely:
 
