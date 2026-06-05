@@ -174,6 +174,44 @@ Nicht komplett streichen:
 - Cloudflare Bots + Self Identity.
 - xAI/Valor/NVIDIA-Finanzierung.
 
+## SEO-Shownotes
+
+Die Nerd Show 0019 dreht sich um AI-Agenten im Alltag, lokale KI-Modelle, explodierende Compute-Kosten, neue AI-Finanzierungsmodelle, Krypto-Regulierung, SpaceX- und Anthropic-IPO-Fantasien, Smart Rings und Security-Risiken durch autonome LLM-Systeme.
+
+Links in der Reihenfolge der Sendung:
+
+- [Nous Research Hermes Desktop: Open-Source-Agent fuer macOS, Windows und Linux](https://hermes-agent.nousresearch.com/desktop)
+- [Microsoft Scout, Copilot Super App und OpenClaw fuer Windows](https://www.computerbase.de/news/apps/copilot-super-app-scout-ist-microsofts-openclaw-variante-fuer-windows-11.97686/)
+- [Anthropic Claude Cowork im Marketing-Team](https://www.anthropic.com/webinars/how-anthropics-marketing-team-uses-claude-cowork)
+- [Alphabet plant 80 Milliarden Dollar fuer AI-Infrastruktur und Compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
+- [Valors 5,4-Milliarden-Dollar-GPU-Leasing fuer xAI](https://www.datacenterdynamics.com/en/news/valor-equity-partners-raises-54bn-to-buy-nvidia-gpus-for-xai/)
+- [Apollo-Ankuendigung zum Valor/xAI-Compute-Deal](https://ir.apollo.com/_assets/_85797075d26b60815690c591ca134c16/apollo/news/2026-01-07_Apollo_Backs_5_4_Billion_Valor_and_xAI_Data_599.pdf)
+- [George Noble Thread zum xAI/NVIDIA/Valor-Deal](https://x.com/gnoble79/status/2062616388963844440)
+- [Amazon stoppt internes AI-Leaderboard nach Tokenmaxxing](https://the-decoder.de/amazon-schaltet-ki-leaderboard-ab-nachdem-beschaeftigte-per-tokenmaxxing-die-cloud-rechnung-hochtrieben/)
+- [Heise: Semantic Anchors fuer kuerzere Prompts beim agentischen Coding](https://www.heise.de/news/Semantische-Anker-verkuerzen-den-Kontext-fuer-das-agentische-Coden-11311061.html)
+- [Google Gemma 4 12B fuer lokale multimodale AI-Agenten](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+- [Stable Diffusion 1.5 lokal auf dem iPhone im Benchmark](https://medium.com/@rokbozi/iphone-stable-diffusion-1-5-benchmark-local-ai-image-generation-is-fast-3462f58491e9)
+- [Yahoo Finance / BeInCrypto: Michael Saylor, Bitcoin-Abfluesse und AI-Kapitalrotation](https://de.finance.yahoo.com/nachrichten/michael-saylor-nennt-bitcoin-verkauf-173000149.html)
+- [EUR-Lex: MiCA-Regeln fuer Kryptowerte und Crypto-Asset Service Provider](https://eur-lex.europa.eu/EN/legal-content/summary/european-crypto-assets-regulation-mica.html)
+- [MeTacheles ueber den moeglichen SpaceX-IPO](https://www.metacheles.de/spacex-boersengang-der-groesste-bankraub-geschichte/)
+- [S&P DJI bleibt bei 12-Monats-Regel fuer Mega-IPOs](https://za.investing.com/news/stock-market-news/sp-dji-holds-firm-on-index-rules-despite-megacap-ipo-anticipation-4315377)
+- [S&P-Dow-Jones-Konsultation zu Indexregeln](https://www.spglobal.com/spdji/en/governance/consultations/mr4292/)
+- [Sawyer Merritt Thread zu SpaceX und Indexaufnahme](https://x.com/sawyermerritt/status/2062647567456813461)
+- [Heise: Anthropic reicht vertraulich IPO-Antrag ein](https://www.heise.de/news/Anthropic-reicht-vertraulich-Antrag-auf-Boersengang-in-den-USA-ein-11314424.html)
+- [AI News: Anthropic-IPO als Zeichen fuer reifere Enterprise-AI](https://www.artificialintelligence-news.com/news/anthropic-ipo-filing-marks-ai-maturing-enterprise-utility/)
+- [Anthropic Institute ueber Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement)
+- [Business Punk ueber Claude Opus 4.8 und Dynamic Workflows](https://www.business-punk.com/tech/wie-claude-opus-4-8-und-dynamic-workflows-die-it-welt-revolutionieren/)
+- [Notebookcheck: Rogbid SR15 Ultra Smart Ring mit Display](https://www.notebookcheck.com/Neuer-preisguenstiger-Smartring-aus-Titan-mit-Haptik-Display-und-30-Tage-Akkulaufzeit.1314314.0.html)
+- [University of Toronto: Adaptiver AI-Wurm fuer vernetzte Geraete](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
+- [Self Protocol: Privacy-preserving Proof of Humanity](https://x.com/selfxyz/status/2062595652597481940)
+- [Self Protocol Dokumentation](https://docs.self.xyz/)
+- [Anthropic: LLMs zur Absicherung von Source Code](https://claude.com/blog/using-llms-to-secure-source-code)
+- [Anthropic Reference Harness fuer autonome Security-Analysen](https://github.com/anthropics/defending-code-reference-harness)
+- [Kasra Rahjerdi: LLMs hacken eine absichtlich verwundbare App](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
+- [Heise: AI-Gesellschaftssimulation mit Claude, Gemini, Grok und GPT-5-mini](https://www.heise.de/news/Forschungssimulation-So-wuerden-die-verschiedenen-KI-Modelle-die-Welt-regieren-11314087.html)
+- [CNBC: Trumps AI Executive Order fuer Pre-Release-Modellzugriff](https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html)
+- [Codex findet sudo-Workaround ueber Docker Bind Mounts](https://x.com/sluongng/status/2060746160558543217)
+
 ## Wenn wir zu kurz werden
 
 Diese Prompts nachlegen:
