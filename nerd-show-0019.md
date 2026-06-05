@@ -144,6 +144,9 @@ Jeweils 1-2 Minuten, ausser jemand hat wirklich einen guten Rant.
 - [Notebookcheck ueber Rogbids guenstigen SR15-Ultra-Smartring](https://www.notebookcheck.com/Neuer-preisguenstiger-Smartring-aus-Titan-mit-Haptik-Display-und-30-Tage-Akkulaufzeit.1314314.0.html) - **Geteilt von:** Carlo M. Billiger Smartring mit Titangehaeuse, Display, Vibrationshinweisen, Gestensteuerung, Health Tracking, 5 ATM Wasserschutz und angeblich 30 Tagen Laufzeit mit Ladecase.
   **TL;DR:** Smartringe driften Richtung Mini-Smartwatch. Bitte einmal entscheiden, ob Schmuck Benachrichtigungen braucht.
 
+- [Medium Benchmark: Stable Diffusion 1.5 lokal auf dem iPhone](https://medium.com/@rokbozi/iphone-stable-diffusion-1-5-benchmark-local-ai-image-generation-is-fast-3462f58491e9) - **Geteilt von:** Carlo M. PhoneDiffusion testet drei Stable-Diffusion-1.5-Modelle lokal auf einem iPhone mit 512x512-Ausgaben ueber CPU und Neural Engine; schnelle Hyper/LCM-Modelle landen bei grob 3 bis 5 Sekunden, CyberRealistic bei rund 14 Sekunden.
+  **TL;DR:** Local AI auf dem Smartphone wird interaktiv genug fuer kreative Loops. Guter 1-Minuten-Aside zu Privacy, Modellwahl und der Frage, ob Bildgenerierung wieder ein Geraetefeature statt Cloud-Service wird.
+
 - [EUR-Lex Zusammenfassung der EU-Kryptowerteverordnung MiCA](https://eur-lex.europa.eu/EN/legal-content/summary/european-crypto-assets-regulation-mica.html) - **Geteilt von:** Carlo M. EUR-Lex beschreibt MiCA als einheitlichen EU-Regelrahmen fuer Emittenten von Kryptowerten und Crypto-Asset Service Provider, inklusive Zulassung, Aufsicht, Governance, Kundenschutz und Marktmissbrauchsregeln.
   **TL;DR:** MiCA wird fuer normale Nutzer real: Wer Kryptos noch bei unregulierten oder nicht EU-lizenzierten Exchanges liegen hat, sollte vor dem 1. Juli Zugriff, Handel und Auszahlung klaeren oder die Coins runterholen. Guter 1-Minuten-Aside mit offizieller Quelle.
 
@@ -155,13 +158,14 @@ Jeweils 1-2 Minuten, ausser jemand hat wirklich einen guten Rant.
 In dieser Reihenfolge kuerzen:
 
 1. Smartring.
-2. MiCA-Aside.
-3. Saylor/Bitcoin-AI-Rotation.
-4. Vatikan-AI-Regeln.
-5. Business Punk.
-6. CNBC Executive Order.
-7. Emergence-Gesellschaftssimulation.
-8. Detaillierte Anthropic-IPO-Mechanik.
+2. iPhone-Stable-Diffusion-Benchmark.
+3. MiCA-Aside.
+4. Saylor/Bitcoin-AI-Rotation.
+5. Vatikan-AI-Regeln.
+6. Business Punk.
+7. CNBC Executive Order.
+8. Emergence-Gesellschaftssimulation.
+9. Detaillierte Anthropic-IPO-Mechanik.
 
 Nicht komplett streichen:
 
