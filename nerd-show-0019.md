@@ -176,33 +176,28 @@ Nicht komplett streichen:
 
 ## SEO-Shownotes
 
-Die Nerd Show 0019 dreht sich um AI-Agenten im Alltag, lokale KI-Modelle, explodierende Compute-Kosten, neue AI-Finanzierungsmodelle, Krypto-Regulierung, SpaceX- und Anthropic-IPO-Fantasien, Smart Rings und Security-Risiken durch autonome LLM-Systeme.
+Die Nerd Show 0019: AI-Agenten im Alltag, lokale KI, Tokenkosten, AI-Compute-Finanzierung, Krypto-Regulierung, SpaceX/Anthropic-IPO, Smart Rings und Security-Risiken durch autonome LLMs.
 
 Links in der Reihenfolge der Sendung:
 
 - [Hermes Desktop: Open-Source-Agent fuer alle Systeme](https://hermes-agent.nousresearch.com/desktop)
 - [Microsoft Scout und OpenClaw fuer Windows](https://www.computerbase.de/news/apps/copilot-super-app-scout-ist-microsofts-openclaw-variante-fuer-windows-11.97686/)
-- [Anthropic Claude Cowork im Marketing](https://www.anthropic.com/webinars/how-anthropics-marketing-team-uses-claude-cowork)
 - [Alphabet plant 80 Milliarden Dollar fuer AI-Compute](https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx)
 - [Valor/xAI/NVIDIA: 5,4 Milliarden Dollar GPU-Leasing](https://www.datacenterdynamics.com/en/news/valor-equity-partners-raises-54bn-to-buy-nvidia-gpus-for-xai/)
 - [Amazon stoppt AI-Leaderboard nach Tokenmaxxing](https://the-decoder.de/amazon-schaltet-ki-leaderboard-ab-nachdem-beschaeftigte-per-tokenmaxxing-die-cloud-rechnung-hochtrieben/)
 - [Heise: Semantic Anchors fuer agentisches Coding](https://www.heise.de/news/Semantische-Anker-verkuerzen-den-Kontext-fuer-das-agentische-Coden-11311061.html)
 - [Google Gemma 4 12B fuer lokale AI-Agenten](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
 - [Stable Diffusion 1.5 lokal auf dem iPhone](https://medium.com/@rokbozi/iphone-stable-diffusion-1-5-benchmark-local-ai-image-generation-is-fast-3462f58491e9)
-- [Michael Saylor, Bitcoin-Abfluesse und AI-Kapitalrotation](https://de.finance.yahoo.com/nachrichten/michael-saylor-nennt-bitcoin-verkauf-173000149.html)
 - [EUR-Lex: MiCA-Regeln fuer Kryptowerte](https://eur-lex.europa.eu/EN/legal-content/summary/european-crypto-assets-regulation-mica.html)
 - [MeTacheles ueber den moeglichen SpaceX-IPO](https://www.metacheles.de/spacex-boersengang-der-groesste-bankraub-geschichte/)
 - [S&P bleibt bei 12-Monats-Regel fuer Mega-IPOs](https://za.investing.com/news/stock-market-news/sp-dji-holds-firm-on-index-rules-despite-megacap-ipo-anticipation-4315377)
 - [Heise: Anthropic reicht vertraulich IPO-Antrag ein](https://www.heise.de/news/Anthropic-reicht-vertraulich-Antrag-auf-Boersengang-in-den-USA-ein-11314424.html)
 - [Anthropic ueber Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement)
-- [Business Punk ueber Claude Opus 4.8 und Dynamic Workflows](https://www.business-punk.com/tech/wie-claude-opus-4-8-und-dynamic-workflows-die-it-welt-revolutionieren/)
 - [Rogbid SR15 Ultra Smart Ring mit Display](https://www.notebookcheck.com/Neuer-preisguenstiger-Smartring-aus-Titan-mit-Haptik-Display-und-30-Tage-Akkulaufzeit.1314314.0.html)
 - [University of Toronto: Adaptiver AI-Wurm](https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device)
 - [Self Protocol: Privacy-preserving Proof of Humanity](https://x.com/selfxyz/status/2062595652597481940)
 - [Anthropic: LLMs zur Absicherung von Source Code](https://claude.com/blog/using-llms-to-secure-source-code)
-- [Anthropic Reference Harness fuer Security-Analysen](https://github.com/anthropics/defending-code-reference-harness)
 - [Kasra Rahjerdi: LLMs hacken verwundbare App](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
-- [Heise: AI-Gesellschaftssimulation mit mehreren Modellen](https://www.heise.de/news/Forschungssimulation-So-wuerden-die-verschiedenen-KI-Modelle-die-Welt-regieren-11314087.html)
 - [CNBC: Trumps AI Executive Order](https://www.cnbc.com/2026/06/02/trump-executive-order-ai.html)
 - [Codex findet sudo-Workaround ueber Docker Bind Mounts](https://x.com/sluongng/status/2060746160558543217)
 
