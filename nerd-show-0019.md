@@ -147,17 +147,21 @@ Jeweils 1-2 Minuten, ausser jemand hat wirklich einen guten Rant.
 - [EUR-Lex Zusammenfassung der EU-Kryptowerteverordnung MiCA](https://eur-lex.europa.eu/EN/legal-content/summary/european-crypto-assets-regulation-mica.html) - **Geteilt von:** Carlo M. EUR-Lex beschreibt MiCA als einheitlichen EU-Regelrahmen fuer Emittenten von Kryptowerten und Crypto-Asset Service Provider, inklusive Zulassung, Aufsicht, Governance, Kundenschutz und Marktmissbrauchsregeln.
   **TL;DR:** MiCA wird fuer normale Nutzer real: Wer Kryptos noch bei unregulierten oder nicht EU-lizenzierten Exchanges liegen hat, sollte vor dem 1. Juli Zugriff, Handel und Auszahlung klaeren oder die Coins runterholen. Guter 1-Minuten-Aside mit offizieller Quelle.
 
+- [Yahoo Finance / BeInCrypto ueber Michael Saylor, Bitcoin-Abfluesse und AI-Kapitalrotation](https://de.finance.yahoo.com/nachrichten/michael-saylor-nennt-bitcoin-verkauf-173000149.html) - **Geteilt von:** Carlo M. Saylor deutet Bitcoin-ETF-Abfluesse als Rotation in AI-Infrastruktur, waehrend Strategy/MicroStrategy laut Bericht mit dem BTC-Bestand rund 10 Mrd. Dollar unrealisiert im Minus liegt.
+  **TL;DR:** Gute Bruecke zwischen Krypto und AI-Finanzierung: Kapital fliesst in Rechenzentren und Chips, Bitcoin-Treasury-Firmen geraten unter Druck, und Strategy zeigt, wie schnell aus "Corporate Bitcoin Strategy" ein gehebelter Marktstress-Test wird.
+
 ## Wenn wir zu lang werden
 
 In dieser Reihenfolge kuerzen:
 
 1. Smartring.
 2. MiCA-Aside.
-3. Vatikan-AI-Regeln.
-4. Business Punk.
-5. CNBC Executive Order.
-6. Emergence-Gesellschaftssimulation.
-7. Detaillierte Anthropic-IPO-Mechanik.
+3. Saylor/Bitcoin-AI-Rotation.
+4. Vatikan-AI-Regeln.
+5. Business Punk.
+6. CNBC Executive Order.
+7. Emergence-Gesellschaftssimulation.
+8. Detaillierte Anthropic-IPO-Mechanik.
 
 Nicht komplett streichen:
 
