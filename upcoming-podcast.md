@@ -38,8 +38,8 @@ Neue Links nur hier ablegen, wenn die passende Themen-Gruppe unklar ist. Sobald 
 
 ### Crypto / Regulierung
 
-- [BTC-ECHO Sponsored Post zur EU-MiCA-Deadline fuer Kryptoboersen](https://www.btc-echo.de/news/deadline-1-juli-sind-deine-kryptos-bald-ploetzlich-weg-231542/) - **Geteilt von:** Carlo M. BTC-ECHO rahmt die MiCA-Deadline am 1. Juli 2026 als Verbraucherrisiko: Krypto-Dienstleister ohne EU-Lizenz duerfen europaeische Kunden moeglicherweise nicht mehr bedienen. Das koennte Kontoeinschraenkungen, erzwungene Positionsschliessungen oder hakelige Auszahlungen bedeuten. Der Artikel ist ausdruecklich ein gesponserter OKX-Beitrag, also den Produktwinkel entsprechend behandeln.
-  **Diskussionswinkel:** Guter kurzer Block dazu, wie Regulierung fuer normale Krypto-Nutzer konkret wird. MiCA macht die Wahl der Boerse von einer Gebuehren-/Liquiditaetsfrage zu einer Gegenpartei- und Zugriffsrisko-Frage, aber gesponserte Exchange-Inhalte zeigen auch, dass Compliance jetzt Marketingmunition ist.
+- [EUR-Lex Zusammenfassung der EU-Kryptowerteverordnung MiCA](https://eur-lex.europa.eu/EN/legal-content/summary/european-crypto-assets-regulation-mica.html) - **Geteilt von:** Carlo M. Die offizielle EUR-Lex-Zusammenfassung beschreibt MiCA als einheitlichen EU-Regelrahmen fuer Emittenten von Kryptowerten und Crypto-Asset Service Provider: Transparenzpflichten, Zulassung und Aufsicht, Governance, Kundenschutz und Regeln gegen Marktmissbrauch. Praktisch heisst das: Wer Kryptos noch bei unregulierten oder nicht EU-lizenzierten Exchanges liegen hat, sollte vor dem 1. Juli klaeren, ob Zugriff, Handel und Auszahlung danach sauber funktionieren.
+  **Diskussionswinkel:** Guter kurzer Block dazu, wie Regulierung fuer normale Krypto-Nutzer konkret wird. MiCA macht die Wahl der Boerse von einer Gebuehren-/Liquiditaetsfrage zu einer Lizenz-, Gegenpartei- und Zugriffsrisko-Frage: lieber vor der Deadline Coins runterholen oder auf regulierte Anbieter umziehen, statt nachher im Support-Ticket zu haengen.
 
 ### AI Governance & Gesellschaft
 

@@ -144,15 +144,15 @@ Jeweils 1-2 Minuten, ausser jemand hat wirklich einen guten Rant.
 - [Notebookcheck ueber Rogbids guenstigen SR15-Ultra-Smartring](https://www.notebookcheck.com/Neuer-preisguenstiger-Smartring-aus-Titan-mit-Haptik-Display-und-30-Tage-Akkulaufzeit.1314314.0.html) - **Geteilt von:** Carlo M. Billiger Smartring mit Titangehaeuse, Display, Vibrationshinweisen, Gestensteuerung, Health Tracking, 5 ATM Wasserschutz und angeblich 30 Tagen Laufzeit mit Ladecase.
   **TL;DR:** Smartringe driften Richtung Mini-Smartwatch. Bitte einmal entscheiden, ob Schmuck Benachrichtigungen braucht.
 
-- [BTC-ECHO Sponsored Post zur EU-MiCA-Deadline fuer Kryptoboersen](https://www.btc-echo.de/news/deadline-1-juli-sind-deine-kryptos-bald-ploetzlich-weg-231542/) - **Geteilt von:** Carlo M. BTC-ECHO warnt mit Blick auf die MiCA-Deadline am 1. Juli 2026, dass nicht lizenzierte Krypto-Anbieter EU-Kunden moeglicherweise nicht mehr bedienen duerfen, inklusive moeglicher Kontoeinschraenkungen, erzwungener Positionsschliessungen oder Auszahlungsstress. Der Text ist ausdruecklich gesponserter OKX-Content.
-  **TL;DR:** MiCA wird fuer normale Nutzer real, aber Compliance wird auch Exchange-Marketing. Guter 1-Minuten-Aside, kein neutraler Verbraucherschutz-Erklaerer.
+- [EUR-Lex Zusammenfassung der EU-Kryptowerteverordnung MiCA](https://eur-lex.europa.eu/EN/legal-content/summary/european-crypto-assets-regulation-mica.html) - **Geteilt von:** Carlo M. EUR-Lex beschreibt MiCA als einheitlichen EU-Regelrahmen fuer Emittenten von Kryptowerten und Crypto-Asset Service Provider, inklusive Zulassung, Aufsicht, Governance, Kundenschutz und Marktmissbrauchsregeln.
+  **TL;DR:** MiCA wird fuer normale Nutzer real: Wer Kryptos noch bei unregulierten oder nicht EU-lizenzierten Exchanges liegen hat, sollte vor dem 1. Juli Zugriff, Handel und Auszahlung klaeren oder die Coins runterholen. Guter 1-Minuten-Aside mit offizieller Quelle.
 
 ## Wenn wir zu lang werden
 
 In dieser Reihenfolge kuerzen:
 
 1. Smartring.
-2. BTC-ECHO/OKX-MiCA-Aside.
+2. MiCA-Aside.
 3. Vatikan-AI-Regeln.
 4. Business Punk.
 5. CNBC Executive Order.
