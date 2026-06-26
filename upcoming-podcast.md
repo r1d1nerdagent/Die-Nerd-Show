@@ -8,6 +8,11 @@ Dieses Dokument ist der Arbeitsentwurf fuer die naechste Folge. Links sollten na
 
 Neue Links nur hier ablegen, wenn die passende Themen-Gruppe unklar ist. Sobald die Struktur klarer ist, in einen besseren Abschnitt verschieben.
 
+### AI-Infrastruktur und Chips
+
+- [OpenAI und Broadcom stellen den LLM-Inferenzchip Jalapeno vor](https://openai.com/index/openai-broadcom-jalapeno-inference-chip/) - **Geteilt von:** Manuel. OpenAI und Broadcom zeigen mit Jalapeno OpenAIs ersten eigenen "Intelligence Processor": ein speziell fuer LLM-Inferenz gebauter Beschleuniger, der in neun Monaten bis zum Tape-out kam und ab Ende 2026 in einer mehrjaehrigen Plattform mit Partnern wie Broadcom, Celestica, Microsoft und weiteren Rechenzentrumspartnern im Gigawatt-Massstab ausgerollt werden soll. Erste Tests versprechen deutlich bessere Performance pro Watt als aktuelle Spitzenhardware; Details sollen spaeter folgen.
+  **Diskussionswinkel:** OpenAI geht weiter in Richtung vertikal integrierter AI-Fabrik: Modelle, Produkte, Serving-Software, Netzwerke und nun eigene Chips. Spannend ist weniger nur der Chip selbst, sondern die Machtverschiebung in der Infrastruktur: Wer Inferenzkosten, Latenz und Verfuegbarkeit kontrolliert, kontrolliert auch, welche Agenten- und API-Produkte wirtschaftlich skalieren.
+
 ### Agenten-Frameworks und Developer Tools
 
 - [OpenAIs Codex kann Arbeitsablaeufe aufzeichnen und als wiederverwendbare Skills wiederholen](https://the-decoder.de/openais-codex-kann-jetzt-arbeitsablaeufe-aufzeichnen-und-als-wiederverwendbare-skills-selbststaendig-wiederholen/) - **Geteilt von:** Carlo M. OpenAI bringt fuer die Codex-App auf macOS `Record & Replay`: Nutzer koennen einen Workflow einmal vormachen, etwa einen Upload mit Metadaten, Thumbnail und Untertiteln, und Codex wandelt ihn in einen wiederverwendbaren Skill um. Die Funktion braucht Computer Use und ist zunaechst nicht in EU, UK und Schweiz verfuegbar; parallel kommen Massenaktionen fuer die Automations-Historie und Thread-Uebergaben zwischen lokalem und entferntem Host.
